@@ -5,7 +5,7 @@ Um site simples e elegante feito com HTML e CSS para amantes de café!
 ## Descrição  
 **CoffeeWebsite** é um projeto que combina design aconchegante com simplicidade. Criado para exibir informações sobre cafés e oferecer uma experiência visual agradável. Este repositório contém o código-fonte e recursos do site, incluindo um design inspirado em xícaras de café.  
 
-![Design do Café](design-coffee.png)  
+![Design do Café](coffee-hero-section.png)  
 > *Nota: Certifique-se de substituir `design-coffee.png` pelo caminho correto da imagem do design da xícara, caso já tenha a imagem.*  
 
 ## Recursos  
